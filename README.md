@@ -8,4 +8,4 @@ This app shows nearby restaurants and the available food items which can be adde
 
 <img width="406" alt="Screenshot 2023-10-27 at 11 59 45 PM" src="https://github.com/pankaj610/FoodZone/assets/36084571/87fb8085-aea5-4b8c-b432-2bf71958a2a9">
 
-<img width="409" alt="Screenshot 2023-10-28 at 12 02 28 AM" src="https://github.com/pankaj610/FoodZone/assets/36084571/df85873e-6f8a-4c0c-b2b7-6edf94df9bd3">
+![Uploading Screenshot 2023-10-28 at 12.05.50 AM.png…]()
